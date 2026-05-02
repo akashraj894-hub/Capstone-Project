@@ -1,7 +1,3 @@
-To create a professional and engaging GitHub README for your E-commerce Customer Churn Analysis project, you should structure it to highlight the technical skills you used, such as SQL database management and data cleaning.
-
-Below is an overview you can use to describe the project.
-
 🚀 Project Overview: E-commerce Customer Churn Analysis
 This project focuses on identifying patterns and predicting customer attrition for an e-commerce platform. By analyzing demographic data, transaction history, and customer behavior, the goal is to provide actionable insights that can help improve customer retention strategies.  
 
